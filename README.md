@@ -1,2 +1,2 @@
 # Ex1
-2 input calc
+Two(2) input calculator
